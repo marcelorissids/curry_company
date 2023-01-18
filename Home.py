@@ -19,7 +19,7 @@ st.write('# Curry Company Growth Dashboard')
 
 st.markdown(
     """
-    Groth Dashboard foi construído para acompanhar as métricas de crescimento dos Entregadores e Restaurantes.
+    Growth Dashboard foi construído para acompanhar as métricas de crescimento dos Entregadores e Restaurantes.
     ### Como utilizar esse Growth Dashboard?
     - Visão Empresa:
         - Visão Gerencial: Métricas gerais de comportamento.
